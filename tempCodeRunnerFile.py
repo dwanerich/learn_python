@@ -1,0 +1,5 @@
+name = input("What's your name buddy: ")
+print((name) + " welcome to fabric + frequency how old are you by the way")
+age = float(input("Enter age: " ))
+print("wow " + (name) + "... wow! you sure don't look " (age) + " to me bro")
+print(str(age) + "is such a good number kido")
